@@ -12,18 +12,25 @@
 
    
 3. 配置需要翻译的语种
- <img width="1100" height="1102" alt="e8ca422e2d034e56807fa871146be65a" src="https://github.com/user-attachments/assets/e1a69907-b925-4b6b-b903-a8d7f8bce1b8" />
-
- 
-4. 点击 **收集文本**；
-<img width="1056" height="1054" alt="5dd9c76b0e5c6432aad66871d1a0929d" src="https://github.com/user-attachments/assets/d11a1a32-da1f-42d6-8281-aecfdab3ab62" />
+<img width="1446" height="1034" alt="image" src="https://github.com/user-attachments/assets/c6a8ddc6-967c-4781-9517-bde888cd9195" />
+**收集文本前务必先添加需要本地化的语种，否则无法收集到文本**
 
 
-5. 收集完成后，在目标语种（如zh-Hans）所在行，点击右侧的 **“导出此语言的翻译”**，引擎将自动生成.po格式的翻译文件；
-  <img width="943" height="829" alt="0d1acb510236b795c5870afbd6160436" src="https://github.com/user-attachments/assets/5b336b1c-ed4c-446c-9e34-8941493f767d" />
+4. 选择游戏原语言为本地语言，UE默认本地语言为英语
+<img width="726" height="123" alt="86b4ef57cde39f2e25bccae9b7d8ee87" src="https://github.com/user-attachments/assets/9fce9ef8-e12d-4d30-9528-0e8aa8317f87" />
+  
+
+5. 点击 **收集文本**；
+<img width="1580" height="1061" alt="405cb17b85e162d765058eab06de62c6" src="https://github.com/user-attachments/assets/cc3e9089-9bce-47a4-8dea-5b81d5991b8b" />
+
+
+
+6. 收集完成后，点击目标语种右侧的 **“导出此语言的翻译”**，引擎将自动生成.po格式的翻译文件；
+-<img width="1645" height="1055" alt="image" src="https://github.com/user-attachments/assets/62e007cb-68de-445d-8df2-d92a987dbc36" />
+
 
   
-6. 将生成的.po文件交付给 Orbit8 团队进行翻译和校对。
+7. 将生成的.po文件交付给 Orbit8 团队进行翻译和校对。
 <img width="1443" height="958" alt="40bf3e00cfd6d4f3839145c3b0da1435" src="https://github.com/user-attachments/assets/eb2888f2-c388-464b-9ccc-5bc950932976" />
 
 
