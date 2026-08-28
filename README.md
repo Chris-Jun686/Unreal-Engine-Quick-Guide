@@ -31,24 +31,17 @@
 7. 将生成的.po文件交付给 Orbit8 团队进行翻译和校对。
 
 
-## 5. 如何导入翻译后的文本文件
+## 如何导入翻译后的文本文件
 
-Orbit8 团队翻译完成后，将.po文件交付给开发团队。请严格遵循以下步骤：
+1.在 **工具 -> 本地化控制板** -> **语言** 中，点击**目标语种右侧** “导入此语言的翻译”，选择翻译后的.po文件即可。
+<img width="1634" height="1060" alt="image" src="https://github.com/user-attachments/assets/9aeeeb8e-b77e-4003-8ebe-816e0b0eb356" />
 
-1. **文件放置要求**：</br>
-确保Orbit8返回的.po文件**命名规范**（如 Game.po），并放置在对应的语言目录下（如 Content/Localization/Game/zh-Hans/Game.po），不要随意修改文件名或路径。
-2. **执行导入**：</br>
-在 **工具 -> 本地化控制板** 中，**不要在顶部的“导入文本”按钮操作**（该按钮仅用于导入内部 .archive文件）。</br>
-   **正确做法**：</br>
-   在语言列表中找到目标语种（zh-Hans）那一行，点击右侧的 **“导入此语言的翻译”**，选择翻译后的.po文件即可。
-3. **编译文本**：</br>
-导入完成后，**务必点击“编译文本”**，以生成.locres二进制文件，随后才能在游戏运行时调用。
+2. **编译文本**
+<img width="1600" height="1061" alt="56ef6940c4915df4067a687ed42d68aa" src="https://github.com/user-attachments/assets/97f8c3a9-e04e-4569-92f2-a5b4f80e5a11" />
 
-## 6. 预期效果（如何验证）
+
+## 预览
 
 在 **编辑 -> 编辑器偏好设置 -> 区域和语言 -> 预览游戏语言 (Preview Game Language)** 中，切换需要显示的语种（如 zh-Hans），即可在编辑器中实时预览本地化完成的内容。
-
----
-
-
-
+<img width="837" height="549" alt="34eeff9f8d8024afe13fed315c220e65" src="https://github.com/user-attachments/assets/88ac6435-aea0-42ed-a0ac-008d5cc92323" />
+<img width="1821" height="732" alt="image" src="https://github.com/user-attachments/assets/0c9606c2-5616-47dc-8254-213c2787fb73" />
