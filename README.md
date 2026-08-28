@@ -25,10 +25,7 @@
 
 
 6. 收集完成后，点击目标语种右侧的 **“导出此语言的翻译”**，引擎将自动生成.po格式的翻译文件；
-<img width="1596" height="1054" alt="image" src="https://github.com/user-attachments/assets/d15dafb0-d8b1-491b-9df7-84b3805c5409" />
-
-
-7. 将生成的.po文件交付给 Orbit8 团队进行翻译和校对。
+<img width="1645" height="1055" alt="image" src="https://github.com/user-attachments/assets/b1893d7e-be54-4822-8940-b281df0b5057" />
 
 
 ## 如何导入翻译后的文本文件
