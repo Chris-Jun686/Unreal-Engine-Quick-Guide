@@ -8,9 +8,9 @@
 2. 选择配置搜索范围：</br>
    - **C++ 收集**：选择“从文本文件收集”，搜索目录填写源码所在文件夹；
    - **蓝图收集**：选择“从包收集”，包含路径通配符填写内容浏览器目录；
-<img width="1520" height="900" alt="image" src="https://github.com/user-attachments/assets/7726839d-3abe-4ab7-b953-adc78b439081" />
+<img width="1673" height="1073" alt="71ee43a90464cc8fdda3ccd629a86611" src="https://github.com/user-attachments/assets/66283fb8-5c05-4b66-84db-89cfbe37f724" />
 
-   
+
 3. 配置需要翻译的语种
 <img width="1446" height="1034" alt="image" src="https://github.com/user-attachments/assets/c6a8ddc6-967c-4781-9517-bde888cd9195" />
 **收集文本前务必先添加需要本地化的语种，否则无法收集到文本**
